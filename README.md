@@ -36,4 +36,6 @@ npm start
 
 Write your questions in the chat and wait for the response
 
+##### [Back to the top](https://github.com/imLymei/chatgpt-clone#ChatGPT-Clone)
+
 ###### Create by [Felipe Cardoso](https://lymei.art)
